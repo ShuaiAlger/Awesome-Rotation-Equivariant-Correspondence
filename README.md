@@ -4,7 +4,7 @@
 
 ## Detector
 REKD [openreview](https://openreview.net/forum?id=sJJXksSg7yi), 
- [paper](https://openaccess.thecvf.com/content/CVPR2022/html/Lee_Self-Supervised_Equivariant_Learning_for_Oriented_Keypoint_Detection_CVPR_2022_paper.html)
+ [paper](https://openaccess.thecvf.com/content/CVPR2022/html/Lee_Self-Supervised_Equivariant_Learning_for_Oriented_Keypoint_Detection_CVPR_2022_paper.html), [code](https://github.com/bluedream1121/REKD)
 
 ## Descriptor
 GIFT [paper](https://proceedings.neurips.cc/paper/2019/hash/34306d99c63613fad5b2a140398c0420-Abstract.html), [code](https://github.com/zju3dv/GIFT)
