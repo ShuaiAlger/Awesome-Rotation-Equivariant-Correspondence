@@ -10,6 +10,8 @@ REKD [openreview](https://openreview.net/forum?id=sJJXksSg7yi),
 GIFT [paper](https://proceedings.neurips.cc/paper/2019/hash/34306d99c63613fad5b2a140398c0420-Abstract.html), [code](https://github.com/zju3dv/GIFT)
 
 ## Detector and Descriptor
+RoRD [paper](https://arxiv.org/pdf/2103.08573.pdf), [code](https://github.com/UditSinghParihar/RoRD)
+
 ReF [paper](https://arxiv.org/abs/2203.05206), [code_unofficial](https://github.com/ShuaiAlger/ReF_pytorch)
 
 C3PO [paper](https://openreview.net/forum?id=dXouQ9ubkPJ)
