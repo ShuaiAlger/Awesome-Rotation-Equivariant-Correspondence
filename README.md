@@ -18,6 +18,8 @@ C3PO [paper](https://openreview.net/forum?id=dXouQ9ubkPJ)
 
 DRKF [paper](https://arxiv.org/pdf/2209.10907.pdf)
 
+Learning Rotation-Equivariant Features for Visual Correspondence [openreview](https://openreview.net/forum?id=GCF6ZOA6Npk)
+
 ## End-to-end Matcher
 SE2-LoFTR [paper](https://openaccess.thecvf.com/content/CVPR2022W/IMW/html/Bokman_A_Case_for_Using_Rotation_Invariant_Features_in_State_of_CVPRW_2022_paper.html), [code](https://github.com/inkyusa/se2-loftr)
 
