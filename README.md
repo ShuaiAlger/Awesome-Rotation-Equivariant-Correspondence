@@ -11,6 +11,9 @@ S-TREK, CVPR2023,
 ## Descriptor
 GIFT [paper](https://proceedings.neurips.cc/paper/2019/hash/34306d99c63613fad5b2a140398c0420-Abstract.html), [code](https://github.com/zju3dv/GIFT)
 
+RELF, CVPR2023, Learning Rotation-Equivariant Features for Visual Correspondence [openreview](https://openreview.net/forum?id=GCF6ZOA6Npk), [code](https://github.com/bluedream1121/RELF)
+
+
 ## Detector and Descriptor
 RoRD,  [paper](https://arxiv.org/pdf/2103.08573.pdf), [code](https://github.com/UditSinghParihar/RoRD)
 
@@ -20,7 +23,6 @@ C3PO,  CVPRW2022, [paper](https://openreview.net/forum?id=dXouQ9ubkPJ), [code](h
 
 DRKF [paper](https://arxiv.org/pdf/2209.10907.pdf), [code](https://github.com/MTUAV-VisionAI/DRKF)
 
-RELF, CVPR2023, Learning Rotation-Equivariant Features for Visual Correspondence [openreview](https://openreview.net/forum?id=GCF6ZOA6Npk), [code](https://github.com/bluedream1121/RELF)
 
 ## End-to-end Matcher
 SE2-LoFTR [paper](https://openaccess.thecvf.com/content/CVPR2022W/IMW/html/Bokman_A_Case_for_Using_Rotation_Invariant_Features_in_State_of_CVPRW_2022_paper.html), [code](https://github.com/inkyusa/se2-loftr)
