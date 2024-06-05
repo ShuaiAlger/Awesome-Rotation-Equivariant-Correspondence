@@ -13,6 +13,8 @@ GIFT [paper](https://proceedings.neurips.cc/paper/2019/hash/34306d99c63613fad5b2
 
 RELF, CVPR2023, Learning Rotation-Equivariant Features for Visual Correspondence [openreview](https://openreview.net/forum?id=GCF6ZOA6Npk), [code](https://github.com/bluedream1121/RELF)
 
+Steerers: A framework for rotation equivariant keypoint descriptors [paper](https://arxiv.org/pdf/2312.02152.pdf), [code](https://github.com/georg-bn/rotation-steerers)
+
 
 ## Detector and Descriptor
 RoRD,  [paper](https://arxiv.org/pdf/2103.08573.pdf), [code](https://github.com/UditSinghParihar/RoRD)
