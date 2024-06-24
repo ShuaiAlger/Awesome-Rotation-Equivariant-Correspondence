@@ -21,7 +21,7 @@ RoRD,  [paper](https://arxiv.org/pdf/2103.08573.pdf), [code](https://github.com/
 
 ReF, CVPR2022, [paper](https://arxiv.org/abs/2203.05206), [code_unofficial](https://github.com/ShuaiAlger/ReF_pytorch)
 
-C3PO,  CVPRW2022, [paper](https://openreview.net/forum?id=dXouQ9ubkPJ), [code](http://github.com/bpiyush/rotation-equivariant-lfm)
+C3PO, ECCVW2022, C3PO : Towards Rotation Equivariant Feature Detection and Description, [paper](https://openreview.net/forum?id=dXouQ9ubkPJ), [code](http://github.com/bpiyush/rotation-equivariant-lfm)
 
 DRKF [paper](https://arxiv.org/pdf/2209.10907.pdf), [code](https://github.com/MTUAV-VisionAI/DRKF)
 
