@@ -25,6 +25,8 @@ C3PO, ECCVW2022, C3PO : Towards Rotation Equivariant Feature Detection and Descr
 
 DRKF, [paper](https://arxiv.org/pdf/2209.10907.pdf), [code](https://github.com/MTUAV-VisionAI/DRKF)
 
+RaCo, RaCo: Ranking and Covariance for Practical Learned Keypoints, [paper](https://arxiv.org/pdf/2602.15755), [code](https://github.com/cvg/RaCo)
+
 ## Steerers
 Steerers, CVPR2024, Steerers: A framework for rotation equivariant keypoint descriptors, [paper](https://arxiv.org/pdf/2312.02152.pdf), [code](https://github.com/georg-bn/rotation-steerers)
 
