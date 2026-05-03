@@ -11,6 +11,8 @@ REKD [openreview](https://openreview.net/forum?id=sJJXksSg7yi),
 
 S-TREK, ICCV2023, [code_unofficial](https://github.com/ShuaiAlger/S-TREK-pytorch)
 
+RaCo, RaCo: Ranking and Covariance for Practical Learned Keypoints, [paper](https://arxiv.org/pdf/2602.15755), [code](https://github.com/cvg/RaCo)
+
 ## Descriptor
 GIFT, NIPS2019, [paper](https://proceedings.neurips.cc/paper/2019/hash/34306d99c63613fad5b2a140398c0420-Abstract.html), [code](https://github.com/zju3dv/GIFT)
 
@@ -24,8 +26,6 @@ ReF, CVPR2022, [paper](https://arxiv.org/abs/2203.05206), [code_unofficial](http
 C3PO, ECCVW2022, C3PO : Towards Rotation Equivariant Feature Detection and Description, [paper](https://openreview.net/forum?id=dXouQ9ubkPJ), [code](http://github.com/bpiyush/rotation-equivariant-lfm)
 
 DRKF, [paper](https://arxiv.org/pdf/2209.10907.pdf), [code](https://github.com/MTUAV-VisionAI/DRKF)
-
-RaCo, RaCo: Ranking and Covariance for Practical Learned Keypoints, [paper](https://arxiv.org/pdf/2602.15755), [code](https://github.com/cvg/RaCo)
 
 ## Steerers
 Steerers, CVPR2024, Steerers: A framework for rotation equivariant keypoint descriptors, [paper](https://arxiv.org/pdf/2312.02152.pdf), [code](https://github.com/georg-bn/rotation-steerers)
